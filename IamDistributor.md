@@ -23,7 +23,7 @@ Before comparing AWS services, anchor the class on the five dimensions every pro
 | **Cost Efficiency** | Are you paying for idle capacity, or paying proportional to actual usage? |
 | **Operability** | How much day-2 operational burden (patching, scaling config, cluster upkeep) does the team absorb? |
 
-**Teaching point:** EcoRetail is not one application, it's five distinct businesses running under one brand (marketplace, logistics, fintech, retail SaaS, data analytics). Each has a different answer to "which dimension matters most," so each deserves its own platform decision rather than a company-wide default.
+**Teaching point:** IamDistributor is not one application, it's five distinct businesses running under one brand (marketplace, logistics, fintech, retail SaaS, data analytics). Each has a different answer to "which dimension matters most," so each deserves its own platform decision rather than a company-wide default.
 
 ---
 
